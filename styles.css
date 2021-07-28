@@ -1,0 +1,85 @@
+.container {
+    background-color: black;
+    top: 20%;
+    bottom: 30%;
+    display: flex;
+    
+} 
+body {
+    text-align: center;
+}
+.flex1 {
+    background-color: rgb(206, 32, 32);
+    position: absolute;
+    color: white;
+    text-align: center;
+    right: 0%;
+    width: 10%;
+    height: auto;
+    font-size: 50%;
+    font-family: cursive;
+
+}
+.flex2 {
+    background-color: black;
+    min-height: 200px;
+    width: 100px;
+    color: white;
+}
+.flex3 {
+    background-color: white;
+    min-height: 300px;
+    width: 100px;
+}
+.flex4 {
+    background-color: black;
+    min-height: 300px;
+    width: 100px;
+    color: white;
+}
+.flex5 {
+    background-color: white;
+    min-height: 100px;
+    width: 300px;
+    padding: 8%;
+    text-align: center;
+    color: black;
+    
+}
+.flex6 {
+    background-color: black;
+    min-height: 300px;
+    width: 100px;
+    color: white;
+}
+.flex7 {
+    background-color: white;
+    min-height: 300px;
+    width: 100px;
+}
+.flex8 {
+    background-color: black;
+    min-height: 100px;
+    width: 300px;
+    padding: 8%;
+    text-align: center;
+    color: white;
+}
+    
+nav {
+    background-color: bisque;
+    position: fixed;
+    text-align: justify;
+    width: 100%;
+    border: solid coral;
+    border-radius: 6%;
+
+}
+.position {
+    background-color: bisque;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    bottom: 0%;
+
+}
